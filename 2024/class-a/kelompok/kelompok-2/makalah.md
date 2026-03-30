@@ -4,8 +4,13 @@
 **1. Latar Belakang**
 
 **2. Rumusan Masalah**
+####
+####
+####
+####
 
 **3. Tujuan Masalah**
 
 ## BAB 2 Pembahasan
 **1. Posisi teknologi sebagai mitos!**
+Materi tya
