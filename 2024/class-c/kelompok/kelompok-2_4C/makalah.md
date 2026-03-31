@@ -125,7 +125,7 @@ Fenomena ini muncul ketika suatu representasi terus diproduksi berulang-ulang sa
 
 1. Realitas Tergantikan oleh Simulasi
 
-Baudrillard berargumen bahwa realitas perlahan digeser oleh simulasi. Menurutnya "Simulation is no longer that of a terriorty, it is the generation by models of a real without origin or reality: hyperreal" (Baudrillard 1981). Dengan kata lain simulasi bukan sekedar meniru, ia menciptakan realitas baru yang tak lagi jelas asal-usulnya. Dalam konteks ini peran teknologi terutama media digital sangat penting. Banyak pengalaman manusia sekarang dibentuk oleh layar, gambar, dan teks. Sehingga apa yang kita sebut realitas sebenernya melalui proses rekayasa sebelumnya.
+Baudrillard berargumen bahwa realitas perlahan digeser oleh simulasi. Menurutnya "Simulation is no longer that of a terriorty, it is the generation by models of a real without origin or reality: hyperreal" (Baudrillard 1981). Dengan kata lain simulasi bukan sekedar meniru, ia menciptakan realitas baru yang tak lagi jelas asal-usulnya. Dalam konteks ini peran teknologi terutama media digital sangat penting. Banyak pengalaman manusia sekarang dibentuk oleh layar, gambar, dan teks. Sehingga apa yang kita sebut realitas sebenernya sudah melalui proses rekayasa sebelumnya.
 
 2. Tanda dan Simbol menjadi realitas itu sendiri
 
@@ -133,13 +133,13 @@ Menurut Baudrillard tanda tidak selalu berfungsi sebagai representasi. Dia menga
 
 3. Teknologi Menyatu dengan Realitas
 
-Dalam kondisi hiperrealitas, teknologi tidak lagi berdiri di luar kehidupan manusia tetapi ia menyatu. Baudrillard menggambarkan dunia yang dipenuhi simulasi, Dimana batas antara nyata dan tidak nyata mengabur. Ia menyebutnya "More real than real" (Baudrillard 1981). Kita lihat ini dalam praktik sehari-hari seperti komunikasi, pekerjaan, hubungan sosial banyak berlangsung diruang digital. Kadang pengalaman digital terasa lebih kuat daripada pengalaman langsung, yang menunjukan bahwa teknologi menjadi bagian sari apa yang kita sebut realitas.
+Dalam kondisi hiperrealitas, teknologi tidak lagi berdiri di luar kehidupan manusia tetapi ia menyatu. Baudrillard menggambarkan dunia yang dipenuhi simulasi, Dimana batas antara nyata dan tidak nyata mengabur. Ia menyebutnya "More real than real" (Baudrillard 1981). Kita lihat ini dalam praktik sehari-hari seperti komunikasi, pekerjaan, hubungan sosial banyak berlangsung diruang digital. Kadang pengalaman digital terasa lebih kuat daripada pengalaman langsung, yang menunjukan bahwa teknologi menjadi bagian dari apa yang kita sebut realitas.
 
 4. Simulacra sebagai Bentuk Dominan Realitas
 
 Konsep penting lainnya adalah simulacra, yaitu tiruan yang tidak lagi memiliki hubungan jelas dengan realitas aslinya. Baudrillard memberi gambaran bahwa "it is the map that precedes the territory" (Baudrillard 1981), yang artinya representasi datang lebih dulu dari pada kenyataan yang dipresentasikan. Dalam konteks teknologi, simulacra terlihat pada identitas digital di media sosial atau citra diri di online yang dibentuk sengaja. Hal semacam itu belum tentu mencerminkan kondisi faktual, tetapi tetap diperlukan sebagai nyata. Dengan kata lain, masyarakat hidup di antara representasi yang menutupi atau menggantikan realitas.
 
-Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekedar sebagai alat bantu. Perannya berkembang jauh lebih besar, sampai ikut membentuk apa yang kita anggap sebagai realitas lewat berbagai simulasi yang kadang justru terasanlebih meyakinkan daripada kenyataan aslinya. Akibatnya batas antara mana yang fakta dan mana yang sekedar hasil rekayasa makin sulit dibedakan, dan ini tentu membuka peluan lebih besar untuk manipulasi informasi. Dalam situasi seperti ini cara kita memahami dunia pun ikut berubah, sehingga kemampuan berpikir kritis menjadi hal yang penting supaya kita tidak mudah terjebak dalam realitas yang samar di era hiperrealitas.
+Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekedar sebagai alat bantu. Perannya berkembang jauh lebih besar, sampai ikut membentuk apa yang kita anggap sebagai realitas lewat berbagai simulasi yang kadang justru terasa lebih meyakinkan daripada kenyataan aslinya. Akibatnya batas antara mana yang fakta dan mana yang sekedar hasil rekayasa makin sulit dibedakan, dan ini tentu membuka peluan lebih besar untuk manipulasi informasi. Dalam situasi seperti ini cara kita memahami dunia pun ikut berubah, sehingga kemampuan berpikir kritis menjadi hal yang penting supaya kita tidak mudah terjebak dalam realitas yang serba samar di era hiperrealitas.
 
 2.3 Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrialitas
 
