@@ -59,6 +59,7 @@ Dengan demikian, substansi teknologi dalam sudut pandang hiperrealitas berdasark
 
 **3. Contoh Kasus Berdasarkan Pengalaman Pribadi**
 
+Untuk memahami konsep hiperrealitas secara lebih konkret, fenomena ini dapat dilihat melalui beberapa contoh pengalaman pribadi dalam kehidupan sehari-hari, diantaranya:
 
 1. Saat saya berpergian ke suatu tempat yang sebenarnya sudah sering saya kunjungi, saya tetep membuka aplikasi peta seperti Google Maps di handphone. Padahal saya sudah cukup tahu dan hafal arah menuju lokasi tersebut. Namun, karena aplikasi sudah dianggap memberikan rute yang paling cepat dan akurat, saya jadi lebih mempercayai teknologi tersebut dibandingkan insting saya sendiri.
 
