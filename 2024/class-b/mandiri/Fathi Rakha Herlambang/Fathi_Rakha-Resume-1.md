@@ -1,3 +1,7 @@
 # Hubungan dan Relasi Agma dan Sains 
 
-Resume ini di tulis untuk menjawab pertanyaan yang masih jadi perdebatan sampai hari ini "Apakah agama dan sains bertolak belakang atau berkesinambungan dan memiliki relasi 
+Berangkat dari satu pertanyaan "Apakah agama dan sains saling bertolak belakan atau beresinambungan dan memiliki relasi yang tidak aling menjatuhkan?", topik ini masih sering di bahas dan menjadi perdebatan saat ini 
+
+Dalam buku Homo Deus 
+
+
