@@ -131,7 +131,22 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 </p>
 
 #### **2.4. Sejarah dan Pola Hubungan antara Kode Sumber Terbuka dan Kode Sumber Tertutup**
-
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada awal tahun 1970an perkembangan industri perangkat lunak dalam hubungan penyedia teknologi dan pelanggan sangat terbuka. Perusahaan perangkat lunak memiliki kebijakan untuk mengirimkan produk mereka kepada pelanggan beserta dengan kode sumbernya (source code). Kebijakan ini dilakukan untuk membangun kepercayaan antara penyedia teknologi dengan pelanggan. Karena saat itu insutri perangkat lunak tergolong masih baru, jadi pelanggan merasa akan lebih aman jika mereka bisa memperbaiki atau merawat program tersebut secara mandiri. Dengan adanya source code, penyedia teknologi juga bisa langsung terhubung ke komputer pelanggan dan memperbaiki masalh dengan cara menyusun ulang program tersebut. 
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada pertengahan 1970an, mulai munculnya cikal bakal komersial, dimana momen penting terjadi ketika Bill Gates menulis Surat Terbuka untuk Para Penggemar Komputer, dalam surat tersebut Gates mengkritik keras budaya menyalin perangkat lunak tanpa membayar, dimana ia anggap menghambat penciptaan perangkat lunak yang berkualitas. Ia menandai pergeseran pola hubungan dari budaya hobi yang bebas menjadi model bisnis closed source yang dilindungi hak cipta. 
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lalu pada tahun 1980an terjadi perubahan besar dari kode sistem terbuka (open source) ke kode sistem sumber tertutup (closed source). Contoh perubahan pada saat itu yaitu Apple, yang awalnya menggunakan open source pada Apple II, lalu beralih ke closed source pada Macintosh. Perubahan ini dilakukan untuk memberikan pengalaman pengguna yang lebih teratur dan terkendali. Namun, akibatnya pengguna tidak bisa lagi mengubah sistem dengan sendirinya. 
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada tahun 1990an merupakan masa transisi, dimana closed source mulai kiehilangan kendali karena kehadiran open source seperti linux, dimana dapat memungkinkan para wirausahawan membangun perusahaan dengan biaya rendah karena tidak perlu membeli lisensi perangkat lunak kode sumber tertutup yang mahal.  
+</p>
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pada masa sekarang, pengembangan teknologi menggunakan kombinasi atau gabungan antara open source dan closed source. Open source digunakan untuk mempercepat inovasi dan efisiensi, sementara closed source menjadi strategi utama dalam menciptakan nilai ekonomi dan keunggulan yang kompetitif. Lonjokan perusahaan startup teknologi di era sekarang terjadi karena adanya alat pemrograman terbuka dan layanan berbasis internet yang bisa digunakan dengan biaya yang rendah.
+</p>
+  
 #### **2.5. Sikap terhadap Kode Sumber Terbuka dan Kode Sumber Tertutup**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Dalam Das Kapital, Karl Marx menjelaskan bahwa dalam sistem kapitalisme, kekayaan masyarakat dipandang sebagai kumpulan besar komoditas, dimana nilai suatu benda tidak hanya ditentukan oleh kegunaannya, tapi terutama oleh nilai tukarnya. Komoditas adalah segala sesuatu yang mampu memenuhi kebutuhan manusia, baik kebutuhan fisik maupun nonfisik, dan nilai guna suatu benda hanya menjadi nyata ketika digunakan atau dikonsumsi. Namun, dalam kapitalisme, nilai tukar menjadi lebih dominan, sehingga segala sesuatu, termasuk pengetahuan dan teknologi, dapat dikomodifikasi atau dijadikan sebagai barang yang diperjualbelikan. Dalam konteks ini, teknologi tidak lagi sekadar alat bantu manusia, melainkan berubah menjadi instrumen ekonomi yang digunakan untuk meningkatkan produktivitas dan menghasilkan nilai lebih (surplus value), bahkan seringkali menggantikan tenaga kerja manusia. Dengan demikian, teknologi dalam kapitalisme cenderung memperparah eksploitasi dan memperlebar ketimpangan sosial.
@@ -190,6 +205,10 @@ Dalam prespektif ekonomi, konsep open source dan closed source dapat dipahami me
 <br>
 
 #### **3.1. Kesimpulan**
+</p>
+<p align="justify">
+Perkembangan teknologi sejak tahun 1960 hingga sekarang menunjukkan adanya perubahan pola hubungan yang dinamis antara negara, swasta, dan masyarakat. Pada awalnya, negara memegang peran utama sebagai penggerak dan pendana teknologi, terutama melalui kepentingan militer dan riset dasar. Namun seiring waktu, peran tersebut bergeser menjadi kolaboratif dengan akademisi, lalu berkembang menjadi hubungan dua arah dengan swasta, di mana perusahaan teknologi mengambil alih peran utama dalam inovasi dan komersialisasi, sementara negara berfungsi sebagai regulator dan pendukung. Di sisi lain, inovasi teknologi juga tidak lepas dari peran individu dan mekanisme pasar sebagaimana dijelaskan dalam teori ekonomi klasik, di mana kreativitas, pembagian kerja, dan kepentingan pribadi mendorong kemajuan teknologi. Budaya hacking turut memperkuat perkembangan ini dengan menanamkan nilai keterbukaan, eksperimen, dan kolaborasi, yang kemudian melahirkan banyak teknologi modern. Dalam perkembangannya, muncul tarik-menarik antara prinsip open source yang menekankan kebebasan dan kolaborasi dengan closed source yang berorientasi pada keuntungan dan kontrol, mencerminkan pertentangan antara nilai kolektivisme dan kapitalisme. Oleh karena itu, kondisi yang paling ideal dalam perkembangan teknologi modern adalah adanya keseimbangan antara peran negara, mekanisme pasar, dan inovasi sekaligus menjaga keberlajutan ekonomi.
+</p>
 
 ---
 <br>

@@ -202,6 +202,8 @@ Transformasi  teknologi sejak 1960-an hingga sekarang menunjukkan bahwa teknolog
 
 Budaya hacking, yang sering disalahpahami, justru memberi kontribusi besar dalam lahirnya perangkat lunak modern, keamanan siber, dan metode kerja kolaboratif. Sejak 1970-an, perdebatan open source dan closed source mencerminkan tarik-menarik antara kebebasan akses dan perlindungan aset komersial. Sikap terhadap keduanya bukan sekadar teknis, melainkan pilihan politik dan ideologis.
 
+Dalam kerangka Marx, kode sumber dapat dipahami sebagai “alat produksi baru” yang membawa ideologi. Closed source mencerminkan kapitalisme dengan privatisasi dan kontrol, sedangkan open source mencerminkan kolektivisme dengan akses terbuka dan kerja sama. Dengan demikian, arah perkembangan teknologi modern adalah hasil dari tarik-menarik kepentingan politik, ekonomi, dan ideologi, bukan semata-mata kemajuan teknis.
+
 <div align="center">
   <h1>DAFTAR PUSTAKA</h1>
 </div>
