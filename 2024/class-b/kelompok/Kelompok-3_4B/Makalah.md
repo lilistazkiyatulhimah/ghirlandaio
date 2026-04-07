@@ -51,9 +51,14 @@ semoga makalah ini dapat memberikan manfaat bagi para pembaca.
   <h1>DAFTAR ISI</h1>
 </div>
 
-* [1.1 KATA PENGANTAR](#kata-pengantar)
+* [KATA PENGANTAR](#kata-pengantar)
+* [DAFTAR ISI](#daftar-isi)
+* [PENDAHULUAN](#pendahuluan)
 * [1.1 Latar Belakang](#11-latar-belakang)
-* [1.2 Latar Belakang](#12-rumusan-masalah)
+* [1.2 Rumusan Masalah](#12-rumusan-masalah)
+* [1.3 Tujuan Penulisan](#13-tujuan-penulisan)
+* [1.4 Manfaat](#manfaat)
+
 
 <div align="center">
   <h1>BAB I</h1>
