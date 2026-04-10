@@ -24,4 +24,4 @@ Setelah memahami isi buku, "Hacking Culture" sendiri bukanlah kalimat yang memil
 
 ## Daftar Pustaka 
 
-Troublemakers: Silicon Valley's Coming of Age. Berlin, Leslie
+Berlin, L. (2017). Troublemakers: Silicon Valley coming of age. Simon & Schuster.
