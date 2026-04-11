@@ -14,3 +14,8 @@ Leslie Berlin dalam *Troublemakers* melengkapi gambaran ini. Melalui rekaman per
 Dari uraian di atas, terlihat bahwa teknologi sejak tahun 1960-an tidak pernah benar-benar netral. Baik di bawah sistem komunis Uni Soviet maupun kapitalisme Amerika Serikat, teknologi selalu diarahkan oleh kepentingan yang lebih besar dari sekadar kemajuan ilmu pengetahuan. Marx sudah mengingatkan hal ini jauh sebelumnya, bahwa negara dan segala yang ada di bawah kendalinya, termasuk teknologi, pada akhirnya bekerja untuk melanggengkan kekuasaan kelas yang dominan. Catatan historis dalam *Troublemakers* pun mempertegas bahwa inovasi tidak tumbuh di ruang yang bebas nilai. Memahami teknologi, dengan demikian, berarti memahami juga siapa yang berada di baliknya dan kepentingan apa yang sedang dilayaninya.
 
 ## Daftar Pustaka
+Berlin, L. (2017). *Troublemakers*: Silicon Valley's coming of age. Simon & Schuster.
+
+Kelompok 3. (2026). *Transformasi ekosistem teknologi: Dari dominasi negara ke era kolaborasi terbuka.* \[Makalah kelompok\].
+
+Marx, K. (1867). *Das Kapital: Kritik der politischen Ökonomie* (Vol. 1). Verlag von Otto Meissner.
