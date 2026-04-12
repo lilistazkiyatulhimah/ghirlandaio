@@ -17,6 +17,9 @@ Jadi pada saat Al Alcorn menerapkan *hacking* untuk merancang permainan pong, di
 
 Jadi makna *hacking* berbeda dengan persepsi pada masa sekarang ini, yang dimana mengatakan bahwa *hacking* adalah tindakan negatif. Justru pada awalnya, *hacking* merupakan pondasi penting dalam perkembangan teknologi digital yang kita pakai saat ini.  
 
+## Daftar Pustaka
+
+Berlin, Leslie. (2017). *Troublemakers: Silicon Valley's coming of age*. New York: Simon & Schuster. 
 
 
 
