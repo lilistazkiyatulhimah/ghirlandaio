@@ -8,9 +8,11 @@ Al Muhdil Karim, S.IP, M.Hum.
 ### *Disusun oleh Kelompok 4 :*
 1.	Lydian Salwa Hananihasna (12402051030030)
 2.	Virda Nakhi  (12402051050109)
+
+   
 Kelas 4A
 
-### *PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026*
+### PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026
 
 ### *Kata Pengantar*
 Assalamu’alaikum Warahmatullahi Wabarakatuh, Segala puji dan syukur kita panjatkan kepada Allah SWT serta shalawat dan salam kami sampaikan kepada tokoh dan teladan kita Nabi Muhammad SAW. Diantara sekian banyak nikmat Allah SWT yang membawa kita dari kegelapan ke dimensi terang yang memberi hikmah dan yang paling bermanfaat bagi seluruh umat manusia, sehingga oleh karenanya kami dapat menyelesaikan tugas Perpustakaan Digital ini dengan baik dan tepat waktu.
@@ -117,14 +119,16 @@ Addin, H. S., Anggraini, H., Yenti, H. N. R. P., Sari, F. W., & Hidayat, I. (202
 
 Ashraf, M. W. A., Singh, A. R., Pandian, A., Rathore, R. S., Bajaj, M., & Zaitsev, I. (2024). A hybrid approach using support vector machine rule-based system: Detecting cyber threats in internet of things. Scientific Reports, 14(1), 27058. https://doi.org/10.1038/s41598-024-78976-1
 
+Data pengguna Arsip Nasional RI diduga bocor, dijual di web gelap. (t.t.). Diambil 12 April 2026, dari https://www.topik.id/2024/11/data-pengguna-arsip-nasional-ri-diduga-bocor-dijual-di-web-gelap.html
+
 Dunmade, A. O., & Tella, A. (2023). Libraries and librarians’ roles in ensuring cyberethical behaviour. Library Hi Tech News, 40(7), 7–11. https://doi.org/10.1108/LHTN-04-2023-0068
 
-Five Laws of Library Science. (1031). https://www.librarianshipstudies.com/2017/09/five-laws-of-library-science.html
+Five Laws of Library Science. https://www.librarianshipstudies.com/2017/09/five-laws-of-library-science.html
 
 National Cyber Security Centre. (2021). CyBOK Version 1.1.0. http://archive.org/details/cybok-version-1.1.0
 
-Tanjung, A. (2022, Juli 10). Lintas Sibermu #8: Cyber Ethics: Perlunya Penerapan Etika dalam Berwahana di Dunia Siber - Universitas Siber Muhammadiyah. 
+S R Ranganathan. (1931). The Five Laws Of Library Science. http://archive.org/details/in.ernet.dli.2015.283188
 
-https://sibermu.ac.id/en/artikel/lintas-sibermu-8-cyber-ethics-perlunya-penerapan-etika-dalam-berwahana-di-dunia-siber/
+Tanjung, A. (2022, Juli 10). Lintas Sibermu #8: Cyber Ethics: Perlunya Penerapan Etika dalam Berwahana di Dunia Siber - Universitas Siber Muhammadiyah. https://sibermu.ac.id/en/artikel/lintas-sibermu-8-cyber-ethics-perlunya-penerapan-etika-dalam-berwahana-di-dunia-siber/
 
 
