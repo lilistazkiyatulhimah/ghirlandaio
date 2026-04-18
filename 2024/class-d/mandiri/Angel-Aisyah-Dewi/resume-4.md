@@ -27,4 +27,4 @@ Dilema etis muncul berkaitan dengan prinsip keamanan triad CIA (Confidentiality,
 Prinsip triad CIA membantu melindungi sistem perpustakaan digital, tetapi juga menimbulkan dilema etis antara akses informasi dan privasi. Oleh karena itu, perpustakaan perlu membuat keseimbangan melalui kebijakan dan pengelolaan yang etis.
 
 ## Daftar Pustaka
-Makalah Kelompok 4. Etika Keamanan Siber PadaPerpustakaan dan LembagaArsip Digital: Tantangan dan Strategis.
+Makalah Kelompok 4. Etika Keamanan Siber Pada Perpustakaan dan Lembaga Arsip Digital: Tantangan dan Strategis.
