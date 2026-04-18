@@ -51,3 +51,6 @@ Di era digital, hukum ini semakin terasa manfaatnya. Pengguna tidak perlu lagi m
 e.	 A library is a growing organism (Perpustakaan adalah organisme yang berkembang)
 Perpustakaan harus terus beradaptasi dengan perkembangan teknologi dan kebutuhan pengguna. Contohnya: Perpustakaan berubah dari yang hanya fisik menjadi digital library, menggunakan sistem otomasi perpustakaan, menyediakan layanan online, mengembangkan literasi digital bagi pengguna. Kalau perpustakaan tidak berkembang, maka akan ditinggalkan oleh penggunanya karena kalah dengan sumber informasi lain di internet. Oleh karena itu, perpustakaan harus terus berinovasi agar tetap relevan.
 
+## Kesimpulan
+5 hukum ini tetap relevan sampai sekarang, tapi definisi dan penerapannya berkembang seiring perubahan zaman, terutama di era digital. Dulu hukum tersebut berfokus pada buku sebagai koleksi utama, tetapi sekarang berkembang menjadi informasi dalam berbagai format. Perpustakaan juga tidak lagi terbatas pada ruang fisik, tetapi sudah merambah ke dunia digital. Dapat disimpulkan bahwa inti dari lima hukum perpustakaan tetap sama, yaitu berorientasi pada kebutuhan pengguna, tetapi cara penerapannya terus menyesuaikan perkembangan teknologi dan informasi.
+
